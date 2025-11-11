@@ -1,0 +1,11 @@
+kings:
+  - name: "King Arthur"
+    era: "Medieval Britain"
+    story: |
+      King Arthur, the legendary ruler of Camelot, pulled the sword Excalibur from the stone...
+      He led the Knights of the Round Table on many noble quests.
+  - name: "King Midas"
+    era: "Ancient Greece"
+    story: |
+      King Midas loved gold more than anything. When he was granted one wish...
+      everything he touched turned to gold — even his daughter.
